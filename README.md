@@ -20,6 +20,8 @@ This example use a esp32 and BMP085.
 
 Connect the BMP085 interface to the esp32 as follows.
 
+![esp-lora image1](https://github.com/jfpantani/examples_esp32_lora_e220_helloworld/blob/main/image/bmp085.jpg?raw=true)
+
 No extra parts or primitives were used in this project.
 
 Connection scheme:
